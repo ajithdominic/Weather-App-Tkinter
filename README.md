@@ -1,5 +1,5 @@
 Weather App:
-This simple Python application fetches weather information for a specified location using the OpenWeatherMap API and displays it through a user-friendly interface built with Tkinter.
+- This simple Python application fetches weather information for a specified location using the OpenWeatherMap API and displays it through a user-friendly interface built with Tkinter.
 
 Features:
 - Current Weather Display: Fetches and shows the current weather conditions, including temperature in Celsius and Fahrenheit, humidity, wind speed, and a brief description.
